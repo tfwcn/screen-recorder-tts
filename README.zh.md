@@ -89,3 +89,17 @@ if __name__ == "__main__":
     ref_audios = ['audio/钟离.wav']
     ref_texts = ['在全稻妻范围内收缴所有神之眼，镶嵌在千手白眼神像的手中。']
 ```
+
+## 👩‍👩‍👧‍👦 贡献者
+
+<a href="https://github.com/tfwcn/screen-recorder-tts/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=tfwcn/screen-recorder-tts&max=400&columns=20"  width="800"/>
+</a>
+
+## 🌟 Star
+
+[![Star History Chart](https://api.star-history.com/svg?repos=tfwcn/screen-recorder-tts&type=Date)](https://star-history.com/#tfwcn/screen-recorder-tts&Date)
+
+## 📄 许可协议
+
+本项目的发布受[Apache 2.0 license](LICENSE)许可认证。
