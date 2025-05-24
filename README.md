@@ -93,7 +93,7 @@ if __name__ == "__main__":
 ## 👩‍👩‍👧‍👦 贡献者
 
 <a href="https://github.com/tfwcn/screen-recorder-tts/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=tfwcn/screen-recorder-tts&max=400&columns=20"  width="800"/>
+    <img src="https://contrib.rocks/image?repo=tfwcn/screen-recorder-tts&max=400&columns=20"  width="40"/>
 </a>
 
 ## 🌟 Star
